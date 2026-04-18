@@ -6,6 +6,7 @@ An interactive chess game built using React.
 - Full chess gameplay
 - Move highlighting
 - Pawn promotion
+
 - Dark / Light theme
 - Smooth animations
 - Sound effects
